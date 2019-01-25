@@ -1,1 +1,1 @@
-# MTTPP_projekt
+Korišteni alati: IntelliJ IDEA Community Edition 2018.2.6, Selenium Webdriver, Maven, TestNG Testna stranica: https://www.zara.com/hr/ Provedeni testovi: 1) loginFail - test koji unosi netočne podatke za prijavu 2) loginSuccess - test koji unosi točne podatke za prijavu 3) kontakt - provjera funkcionalnosti tipke "KONTAKT" 4) azurirajPodatke - test koji ažurira određeni podatak 5) promjenijezik - test koji mijenja jezik stranice
